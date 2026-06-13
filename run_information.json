@@ -1,0 +1,5 @@
+{
+    "run_id": "7bd2dc6a73a14b8796a9e6265fc6cb8c",
+    "artifact_path": "mlflow-artifacts:/2b1b65dc2954411682b83d5e34a1e2f2/models/m-3d67688110cb48639955e346b7677d99/artifacts",
+    "model_uri": "models:/m-3d67688110cb48639955e346b7677d99"
+}

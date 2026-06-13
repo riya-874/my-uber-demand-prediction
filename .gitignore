@@ -1,0 +1,23 @@
+
+# Virtual environment
+.venv/
+venv/
+env/
+
+# Python caching
+**/__pycache__/
+*.pyc
+
+# Local IDE configuration
+.vscode/
+.idea/
+
+# Large Data & Models tracked by DVC
+data/raw/
+data/interim/
+data/processed/
+models/*.joblib
+
+# OS specific files
+Thumbs.db
+.DS_Store

@@ -1,0 +1,16 @@
+numpy
+pandas
+mlflow
+dagshub
+dvc
+dvc[s3]
+pytest
+scikit-learn
+joblib
+matplotlib
+seaborn
+dask
+pyyaml
+graphviz
+xgboost
+optuna
