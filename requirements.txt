@@ -7,3 +7,5 @@ mlflow>=2.0.0
 plotly>=6.0.0
 streamlit
 pydeck>=0.8.0
+folium
+streamlit_folium
