@@ -41,7 +41,19 @@ df = pd.read_csv(data_path, parse_dates=["tpep_pickup_datetime"]).set_index(
 )
 
 
-st.title("Uber Demand in New York City 🚕🌆")
+st.title("RiderRadar🚕")
+
+st.caption("""
+    ###### *Predicting high-density NYC pickup zones using containerized machine learning pipelines.*
+""")
+
+st.write("---")
+
+st.set_page_config(
+    page_title="Rider Radar",
+    page_icon="🚕",
+    layout="wide"
+)
 
 st.sidebar.title("Options")
 map_type = st.sidebar.radio(
